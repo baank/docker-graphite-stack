@@ -1,7 +1,7 @@
 FROM ubuntu:14.04
 MAINTAINER gamzabaw@gmail.com
 
-ENV PG_VERSION=9.3 \
+ENV PG_VERSION=9.6 \
     PG_USER=postgres \
     PG_HOME="/var/lib/postgresql"
 
